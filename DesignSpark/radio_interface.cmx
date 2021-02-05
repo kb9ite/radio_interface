@@ -17,6 +17,7 @@ GND||#=1=GND||@[Description]=Power||@RS Part Number=||@Allied_Number=||@Manufact
 LED||#5MM_RIGHT=2=LED 5mm||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 MIC2009A-1||#SOT23-6=6=SOT23-6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NFETx2||#SOT363=6=SC-88/SC-70-6/SOT-363||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NPN||#SOT23=3=SOT23||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 ON_CM1213x02||#SOT143-4=4=SOT143||@[Description]=TVS diode||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 Opampx2||#SOIC8=8=SOIC8||@[Description]=Dual opamp||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Optocoupler||#DIP4=4=DIP4||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=

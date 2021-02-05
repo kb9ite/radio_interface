@@ -16,6 +16,7 @@ GND||1
 LED||2
 MIC2009A-1||6
 NFET||3
+NPNTRAN||3
 OPAMP||3
 optocoupler||4
 PCM2903||28
