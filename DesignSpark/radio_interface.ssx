@@ -4,16 +4,20 @@ Choke||4
 CONN-3||3
 CONN-7||7
 CONN-21||21
+CONN-27||27
 CONN-30||30
 CONN-USBA||5
 DB15||15
+DCDC||4
 DS_A4_Template_r00||0
 D_BiTVS||2
 D_TVSx2||3
+D_Zener||2
 FerriteBead||2
 FT231XS||19
 GND||1
 LED||2
+MAX232||16
 MIC2009A-1||6
 NFET||3
 NPNTRAN||3
@@ -24,6 +28,8 @@ POWER||2
 R||2
 Relay + Diode SPST||4
 RVA||3
+Si862x||8
+Speaker||2
 TVS_CM1213||4
 USB2513B||29
 VREG||3
