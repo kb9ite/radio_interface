@@ -1,13 +1,13 @@
 Component List
 --------------
 
-"Report Written:","Wednesday, February 10, 2021"
+"Report Written:","Tuesday, March 16, 2021"
 "Project Path:","C:\projects\radio_interface\DesignSpark\radio_interface.prj"
 "Design Path:","C:\projects\radio_interface\DesignSpark\radio_interface.pcb"
 "Design Title:",
-"Created:","1/28/2021 1:03:58 PM"
-"Last Saved:","2/10/2021 9:54:25 AM"
-"Editing Time:","19019 min"
+"Created:","1/28/2021 2:03:58 PM"
+"Last Saved:","3/16/2021 8:56:12 PM"
+"Editing Time:","24386 min"
 "Units:","thou (precision 0)"
 
 "Ref Name","Value","Manufacturer","Manufacturer Part Number","Digikey Number","Mouser Value"
@@ -118,6 +118,7 @@ Component List
 "R23","27","","","2019-RK73H2ATTD27R0FCT-ND","660-RK73H2ATTD27R0F"
 "R24","27","","","2019-RK73H2ATTD27R0FCT-ND","660-RK73H2ATTD27R0F"
 "R25","12k","","","A129762CT-ND","279-CRGCQ0805F12K"
+"R26","22","","","","667-EXB-34V220JV"
 "R27","100","","","A129737CT-ND","279-CRGCQ0805F100R"
 "R28","100k","","","311-100KARCT-ND","667-ERJ-6ENF1003V"
 "R29","10k","","P091N-FC25BR10K","","858-P091N-FC25BR10K"
@@ -142,11 +143,13 @@ Component List
 "R48","1k","","","Y9102CT-ND","667-EXB-38V102JV"
 "R49","47k","","","A130144CT-ND","279-CRGCQ0805J47K"
 "R50","4.7","","","","71-RCG08054R70JNEA"
-"R51","1k","","","","667-EXB-38V102JV"
+"R51","2.2k","","","","754-RR1220P-222D"
 "R52","68","","","","667-ERJ-6ENF68R0V"
 "R53","12k","","","A129762CT-ND","279-CRGCQ0805F12K"
 "R54","12k","","","A129762CT-ND","279-CRGCQ0805F12K"
 "R55","100","","","A129737CT-ND","279-CRGCQ0805F100R"
+"R60","1M","","","","667-ERA-6AED105V"
+"R61","1.5k","","","","667-ERJ-6GEYJ152V"
 "SP1","","","AT-1224-TWT-5V-R","","665-AT1224TWT5VR"
 "U1","","","MIC2009A-1YM6-TR","","998-MIC2009A-1YM6TR"
 "U2","3.3V","","AP2114H-3.3TRG1","AP2114H-3.3TRG1DICT-ND","621-AP2114H-3.3TRG1"

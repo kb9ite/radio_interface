@@ -1,4 +1,5 @@
 7SIL||7
+0606x2_concave||4
 0805||2
 1206x4_concave||8
 Bourns 3306F||3
@@ -31,8 +32,8 @@ SOT143||4
 SOT223||4
 Speaker_12mm||2
 SQFN_36||37
-SSOP20||20
+SSOP20-FT231||20
 SSOP28||28
 TT_P140||9
-Xicon_42TM||6
+Xicon_42TM||8
 XTAL_2.5 x 3.2mm_hand||4
