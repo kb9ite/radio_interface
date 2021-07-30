@@ -55,3 +55,7 @@ The interface to the radio is done with a DB15 connector.  The pinout is as foll
  15. Out Common
  
  <img src="Docs/top.jpg" width="350">  <img src="Docs/bottom.jpg" width="350">
+
+## Tools
+The schematic capture and PCB layout is all done with DesignSpark 9.0.
+There is one device on the PCB that must be soldered with a hot air or reflowed and a couple of other that are easier that way, but could be done by hand.  Other than that most devices can be soldered by hand.
